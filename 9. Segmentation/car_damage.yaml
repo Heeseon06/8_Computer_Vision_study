@@ -1,0 +1,12 @@
+names:
+- Scratched
+- Breakage
+- Separated
+- Crushed
+nc: 4
+test: "/content/drive/MyDrive/KDT/8. \u110F\u1165\u11B7\u1111\u1172\u1110\u1165 \u1107\
+  \u1175\u110C\u1165\u11AB/9. Segmentation/cd/test"
+train: "/content/drive/MyDrive/KDT/8. \u110F\u1165\u11B7\u1111\u1172\u1110\u1165 \u1107\
+  \u1175\u110C\u1165\u11AB/9. Segmentation/cd/train"
+val: "/content/drive/MyDrive/KDT/8. \u110F\u1165\u11B7\u1111\u1172\u1110\u1165 \u1107\
+  \u1175\u110C\u1165\u11AB/9. Segmentation/cd/valid"

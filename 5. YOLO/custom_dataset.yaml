@@ -1,0 +1,14 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /content/pascal_datasets/VOC
+train: # train images (relative to 'path')  5011 images
+  - images/train2007
+  - images/val2007
+val: # val images (relative to 'path')  4952 images
+  - images/test2007
+test: # test images 4952 images
+  - custom_datasets/obj_train_data
+
+# Classes
+nc: 20  # number of classes
+names: ['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog',
+        'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor']  # class names

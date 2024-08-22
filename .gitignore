@@ -1,0 +1,13 @@
+**/.idea/
+**/.venv/
+**/labels/*.txt
+*.mp4
+*.avi
+*.jpeg
+*.jpg
+*.png
+*.webp
+*.bmp
+*.zip
+*.pth
+*.json
